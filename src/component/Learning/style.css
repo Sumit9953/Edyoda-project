@@ -1,0 +1,90 @@
+.learning{
+    margin-left: 40px;
+    position: absolute;
+    display: flex;
+    width: 100%;
+}
+
+.learning_dash{
+    width: 60%;
+    box-shadow: 1px 2px 5px 0 rgb(149, 147, 147);
+    margin-top: 30px;
+    display: flex;
+}
+
+.LEARNING_TITLe{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-right: 1px solid blue;
+}
+
+.learning_type{
+    margin-left: 30px;
+}
+
+.learning_name{
+    margin: 16px 0;
+    font-weight: 100;
+    font-size: 20px; 
+}
+
+.plan{
+    width: 35%;
+    padding: 30px ;
+}
+
+.plan_name{
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.plan_title{
+    font-weight: 100;
+    font-size: 20px;
+    color: blue;
+    margin: 16px 0;
+}
+
+.live_btn{
+    padding:10px;
+    border-radius: 16px;
+    border: none;
+    margin-top: 10px;
+}
+
+.range_input{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.range{
+  margin-left: 10px;
+  border: 0;
+  padding: 10px;
+  opacity: 0.5;
+}
+
+.progress{
+    width: 20%;
+    box-shadow: 1px 2px 5px 0 rgb(149, 147, 147);
+    margin-top: 30px;
+    padding: 30px;
+    margin-left: 40px;
+}
+
+.progress_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid blue;
+}
+
+.anchor{
+    font-weight: bold;
+    padding: 20px;
+    color: blue;
+}

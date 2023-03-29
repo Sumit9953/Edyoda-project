@@ -1,0 +1,46 @@
+.navbar{
+    height: 70px;
+    padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav_logo{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(77, 77, 244);
+}
+
+.nav_profile{
+    display: flex;
+    align-items: center;
+}
+
+.profile_img{
+    padding: 10px;
+    width: 70px;
+    height: 70px;;
+    border-radius: 100%;
+}
+
+.program{
+    background-color: rgb(37, 37, 97);
+    color: #fff;
+    display: flex;
+    padding: 10px 50px;
+    align-items: center;
+}
+
+.program > h2{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.program_type{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 20px;
+}

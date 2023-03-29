@@ -1,0 +1,27 @@
+.side_bar{
+    width: 120px;
+    background-color: rgb(37, 37, 97);
+    height: 100vh;
+    position: absolute; 
+    z-index: 1;
+    left: 0;
+    overflow-x: hidden;
+}
+
+.side_bar_icon{
+    padding: 20px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon-name{
+    font-size: 14px;
+    padding: 10px;
+}
+
+.side_bar_icon:hover{
+    background-color: #fff;
+    color: black;
+}
