@@ -1,0 +1,40 @@
+
+.module_details{
+    width: 100%;
+    display: flex;
+    padding: 40px 50px 0 40px;
+}
+
+.module_date{
+    color: gray;
+    margin-top: 10px;
+}
+
+.assignment_detals{
+    padding: 30px 50px 40px 40px;
+}
+
+.Assignment_card{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 40px;
+    box-shadow: 1px 2px 5px 0 rgb(149, 147, 147);
+}
+
+.assignment_score{
+    padding: 20px;
+    width: 50%;
+    border-right: 1px solid blue ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.assignment_score2{
+    padding: 20px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

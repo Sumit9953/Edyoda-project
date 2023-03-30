@@ -5,3 +5,38 @@
     height: 100vh;
     background-color: rgb(253, 253, 253);
 }
+
+.modules{
+    position: fixed;
+    display: flex;
+    margin-left: 120px;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(253, 253, 253);
+}
+
+.module_title{
+    padding: 20px;
+    width: 16%;
+    background-color: rgb(199, 208, 247);
+    height: 100vh;
+}
+
+.module_card{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.module_card:hover{
+    background-color: rgb(139, 139, 246);
+}
+
+.module_img{
+    margin-right: 20px;
+}
+
+.Link_style{
+    text-decoration: none;
+}
